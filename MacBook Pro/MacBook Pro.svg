@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1384 802" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="MacBook Pro">
+        <g id="Body">
+            <path id="Lower Body" d="M0.018,788C4.022,796.092 16.454,802 31.2,802L1352.84,802C1367.58,802 1380.01,796.096 1384.02,788L0.018,788Z" style="fill:rgb(169,169,169);"/>
+            <path id="Upper Body" d="M1384.02,789L0,789L0,748.169C0,747.532 0.519,747 1.155,747L1382.87,747C1383.5,747 1384.02,747.532 1384.02,748.169L1384.02,789Z" style="fill:rgb(204,204,204);"/>
+            <path id="Hollow" d="M603.325,747C603.155,748.047 603.018,749.11 603.018,750.201C603.018,760.578 611.046,769 620.946,769L769.096,769C778.999,769 787.018,760.578 787.018,750.201C787.018,749.11 786.887,748.047 786.711,747L603.325,747Z" style="fill:rgb(170,170,170);"/>
+        </g>
+        <g id="Full Screen">
+            <path id="Frame" d="M1265.02,44.881C1265.02,20.094 1245,0 1220.32,0L169.724,0C145.037,0 125.018,20.094 125.018,44.881L125.018,748L1265.01,748L1265.01,44.881L1265.02,44.881ZM171.018,44L171.018,704L1219.02,704L1219.02,44L171.018,44Z" style="fill:black;"/>
+            <rect id="Screen" x="167.018" y="42" width="1056" height="665.038" style="fill:rgb(37,37,37);"/>
+        </g>
+    </g>
+</svg>
