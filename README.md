@@ -3,7 +3,7 @@
 _Pomme Plate_ is a collection of flat mockups you can use, remix, transform and share. _Pomme plate_ means "flat apple" in French.
 
 ## Overview
-![Pomme Plate overview](overview.svg)
+![Pomme Plate overview](Overview.svg)
 
 More Apple devices are on the way!
 
