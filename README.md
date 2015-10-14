@@ -15,8 +15,6 @@ You can tweak the colors if necessary.
 **Note:**
 > iPhone 6 Plus and iPhone 6s Plus appear much bigger than they should be. That's because they have a 2208×1242 viewport downsampled to 1920×1080. Keeping the original screen resolution allows you to add screenshots; you'll then need to reduce the size of the whole thing (mockup + screenshot) by about 13.1%.
 
-More Apple devices are on the way!
-
 ### iPad ###
 ![Pomme Plate overview](iPad Overview.png)
 
