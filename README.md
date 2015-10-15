@@ -5,7 +5,7 @@
 _Pomme Plate_ is a collection of flat mockups you can use, remix, transform and share. _Pomme plate_ means "flat apple" in French.
 
 ## Overview
-All mockups are available in SVG, PNG and as Affinity Designer project files. Sketch project files are coming soon!
+All mockups are available in SVG, PNG and as Affinity Designer project files. There is also a Sketch project file, containing both iPhone and iPad mockups.
 
 I am not a designer. Although I find a certain harmony between the color I've chosen, your sharp, educated eye might tell you otherwise.
 
@@ -26,7 +26,7 @@ You can tweak the colors if necessary.
 More Apple devices are on the way!
 
 ## License
-_Pomme Plate_ is licensed under a [CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/)
+_Pomme Plate_ is licensed under a [CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/). See LICENSE for more details.
 
 To the extent possible under law, I ([Frédéric Maquin](http://ephread.com)) have waived all copyright and related or neighboring rights to _Pomme Plate_.
 
