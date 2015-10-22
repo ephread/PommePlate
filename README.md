@@ -5,20 +5,20 @@
 _Pomme Plate_ is a collection of flat mockups you can use, remix, transform and share. _Pomme plate_ means "flat apple" in French.
 
 ## Overview
-All mockups are available in SVG, PNG and as Affinity Designer project files. There is also a Sketch project file, containing both iPhone and iPad mockups.
+All mockups are available in SVG and PNG. There is also a Sketch project file, containing both iPhone and iPad mockups.
 
 I am not a designer. Although I find a certain harmony between the color I've chosen, your sharp, educated eye might tell you otherwise.
 
 You can tweak the colors if necessary.
 
 ### iPhone ###
-[![Pomme Plate overview](iPhone Overview.png)](iPhone%20Overview.svg)
+[![Pomme Plate overview](Overview/iPhone%20Overview.png)](Overview/iPhone%20Overview.svg)
 
 **Note:**
 > iPhone 6 Plus and iPhone 6s Plus appear much bigger than they should be. That's because they have a 2208×1242 viewport downsampled to 1920×1080. Keeping the original screen resolution allows you to add screenshots; you'll then need to reduce the size of the whole thing (mockup + screenshot) by about 13.1%.
 
 ### iPad ###
-[![Pomme Plate overview](iPad Overview.png)](iPad%20Overview.svg)
+[![Pomme Plate overview](Overview/iPad%20Overview.png)](Overview/iPad%20Overview.svg)
 
 **Note:**
 > Once again, device sizes are depending on their resolution rather than their physical size. The iPad Mini is about 15.3% smaller than the iPad Air. The screen size of an iPad 3 or an iPad 4 is the same as the screen size of an iPad Air. Non retina devices are 50% bigger.
