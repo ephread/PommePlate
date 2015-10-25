@@ -3,15 +3,10 @@
     <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
     <title>iPhone Overview</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#FBDA61" offset="0%"></stop>
-            <stop stop-color="#F76B1C" offset="100%"></stop>
-        </linearGradient>
-    </defs>
+    <defs></defs>
     <g id="Overviews" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="iPhone-Overview" sketch:type="MSArtboardGroup">
-            <rect id="Background" stroke="#979797" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" x="0" y="0" width="728" height="1024"></rect>
+            <rect id="Background" fill="#F5515F" sketch:type="MSShapeGroup" x="0" y="0" width="728" height="1024"></rect>
             <g id="iPhone-4s-+-iPhone-4s-White-+-iPhone-4s-Black" sketch:type="MSLayerGroup" transform="translate(279.000000, 758.000000)">
                 <g id="iPhone-4s-White-+-iPhone-4s-Black" transform="translate(0.000000, 62.000000)" sketch:type="MSShapeGroup">
                     <g id="iPhone-4s-White">
