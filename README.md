@@ -2,7 +2,12 @@
 
 ![Public Domain | CC-0](https://img.shields.io/badge/CC--0-Public_Domain-lightgrey.svg)
 
-_Pomme Plate_ is a collection of flat mockups you can use, remix, transform and share. _Pomme plate_ means "flat apple" in French.
+_Pomme Plate_ is a collection of flat mockups you can use, remix, transform and share. You don't need to credit me in any way and you can use the work for commercial purpose.
+
+_Pomme Plate_ means "Flat Apple" in French.
+
+## Download
+Rather than clone the entire project (an its history) head over to [releases](releases) to get the latest release.
 
 ## Overview
 All mockups are available in SVG and PNG and Sketch project files.
@@ -28,9 +33,14 @@ You can tweak the colors if necessary.
 
 More Apple devices are on the way!
 
-## License
-_Pomme Plate_ is licensed under a [CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/). See LICENSE for more details.
+## License and credits
 
-To the extent possible under law, I ([Frédéric Maquin](http://ephread.com)) have waived all copyright and related or neighboring rights to _Pomme Plate_.
+### Mockups
+_Pomme Plate_ mockups (SVG, PNG and sketch project files) are licensed under a [CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/). See LICENSE for more details.
+
+The typeface used by the above images is named [Vegur](http://www.fontspace.com/arro/vegur).
+
+### Logo
+The rudimentary _Pomme Plate_ logo is licensed under a [CC BY-NC 4.0 License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 The typeface used by the logo is named [Quicksand](http://www.fontsquirrel.com/fonts/quicksand).

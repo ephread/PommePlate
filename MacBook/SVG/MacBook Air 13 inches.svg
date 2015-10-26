@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1473px" height="848px" viewBox="0 0 1473 848" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>MacBook Air 13 inches</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="MacBook-Air-13-inches" sketch:type="MSArtboardGroup" transform="translate(-764.000000, -326.000000)">
+            <g sketch:type="MSLayerGroup" transform="translate(764.000000, 326.000000)">
+                <g id="Screen" transform="translate(135.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="Frames">
+                        <path d="M0.408,41.533 C0.408,18.886 18.794,0.5 41.44,0.5 L1160.81,0.5 C1183.456,0.5 1201.842,18.886 1201.842,41.533 L1201.842,803.098 C1201.842,825.744 1183.456,844.13 1160.81,844.13 L41.44,844.13 C18.794,844.13 0.408,825.744 0.408,803.098 L0.408,41.533 L0.408,41.533 Z" id="Outer-Frame" fill="#D5D2CF"></path>
+                        <path d="M5.332,41.533 C5.332,21.604 21.511,5.424 41.44,5.424 L1160.81,5.424 C1180.739,5.424 1196.918,21.604 1196.918,41.533 L1196.918,796.533 C1196.918,808.309 1187.358,817.87 1175.582,817.87 L26.672,817.87 C14.896,817.87 5.336,808.309 5.336,796.533 L5.336,41.533 L5.332,41.533 Z" id="Thin-Plastic-Frame" fill="#4D4D4D"></path>
+                        <path d="M10.255,41.533 C10.255,24.321 24.229,10.348 41.44,10.348 L1160.81,10.348 C1178.021,10.348 1191.995,24.321 1191.995,41.533 L1191.995,796.579 C1191.995,805.612 1184.661,812.946 1175.628,812.946 L26.668,812.946 C17.61,812.946 10.255,805.591 10.255,796.533 L10.255,41.533 L10.255,41.533 Z" id="Metal-Frame" fill="#D5D2CF"></path>
+                    </g>
+                    <g id="Screen1" transform="translate(58.000000, 56.000000)">
+                        <path d="M0.125,2.387 C0.125,1.484 0.859,0.75 1.762,0.75 L1084.492,0.75 C1085.395,0.75 1086.129,1.484 1086.129,2.387 L1086.129,680.113 C1086.129,681.016 1085.395,681.75 1084.492,681.75 L1.762,681.75 C0.859,681.75 0.125,681.016 0.125,680.113 L0.125,2.387 L0.125,2.387 Z" id="Screen-Frame" fill="#4D4D4D"></path>
+                        <rect id="Screen---Off" fill="#343434" x="3.125" y="3.75" width="1079.98" height="675"></rect>
+                    </g>
+                    <g id="Sensors" transform="translate(592.000000, 30.000000)" fill="#4D4D4D">
+                        <circle id="Camera" cx="9.125" cy="8.25" r="8.207"></circle>
+                    </g>
+                </g>
+                <g id="Body" transform="translate(0.000000, 814.000000)" sketch:type="MSShapeGroup">
+                    <path d="M1472.25,3.728 L1472.25,2.5 L0,2.5 L0,3.728 C23.828,18.427 142.186,33.272 206.804,33.272 L1265.444,33.272 C1330.062,33.272 1448.42,18.427 1472.248,3.728 L1472.25,3.728 Z" id="Bottom-Body" fill="#BCBCBC"></path>
+                    <rect id="Top-Body" fill="#D5D2CF" x="0" y="0.446" width="1472.25" height="3.283"></rect>
+                    <path d="M630.936,8.652 L841.314,8.652 C844.962,8.652 855.154,8.032 858.178,3.728 L858.178,0.446 L614.072,0.446 L614.072,3.728 C617.096,8.032 627.288,8.652 630.936,8.652 L630.936,8.652 Z" id="Hollow" fill="#949494"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
