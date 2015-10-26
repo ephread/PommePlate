@@ -7,7 +7,7 @@ _Pomme Plate_ is a collection of flat mockups you can use, remix, transform and 
 _Pomme Plate_ means "Flat Apple" in French.
 
 ## Download
-Rather than clone the entire project (an its history) head over to [releases](releases) to get the latest release.
+Rather than clone the entire project (and its history) head over to [releases](https://github.com/ephread/PommePlate/releases/) to get the latest release.
 
 ## Overview
 All mockups are available in SVG and PNG and Sketch project files.
