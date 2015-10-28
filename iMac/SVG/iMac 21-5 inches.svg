@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="3414px" height="2972px" viewBox="0 0 3414 2972" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>iMac 21-5 inches</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="iMac-21-5-inches-Copy" sketch:type="MSArtboardGroup" transform="translate(-793.000000, -514.000000)">
+            <g id="iMac-21-5-inches" sketch:type="MSLayerGroup" transform="translate(793.000000, 514.000000)">
+                <g id="Body" transform="translate(0.000000, 2063.000000)" sketch:type="MSShapeGroup">
+                    <path d="M1244.06,908.23 C1179.336,908.23 1137.971,903.408 1134.389,893.557 L1134.389,880.719 L2278.869,880.719 L2278.869,893.557 C2275.287,903.408 2233.922,908.23 2169.198,908.23 L1244.064,908.23 L1244.06,908.23 Z" id="Leg-Front" fill="#D5D2CF"></path>
+                    <path d="M1242.46,897.23 C1189.801,897.23 1135.303,894.21 1134.39,880.723 C1144.004,860.504 1266.631,794.672 1282.594,764.908 C1306.273,732.771 1324.16,533.034 1334.648,387.351 L2078.608,387.351 C2089.096,533.034 2106.983,732.771 2130.662,764.908 C2146.625,794.672 2269.252,860.504 2278.866,880.723 C2277.953,894.21 2223.455,897.23 2170.796,897.23 L1242.46,897.23 L1242.46,897.23 Z" id="Leg" fill="#C3C3C3"></path>
+                    <path d="M3413.25,0.36 L0,0.36 L0,286.479 C0,342.154 45.201,387.354 100.875,387.354 L3312.375,387.354 C3368.049,387.354 3413.25,342.154 3413.25,286.479 L3413.25,0.36 L3413.25,0.36 Z" id="Body1" fill="#D5D2CF"></path>
+                </g>
+                <g id="Screen" fill="#343434" sketch:type="MSShapeGroup">
+                    <path d="M3413.25,100.875 C3413.25,45.201 3368.049,0 3312.375,0 L100.965,0 C45.242,0 0.002,45.24 0.002,100.963 L0.002,2063.353 L3413.252,2063.353 L3413.252,100.873 L3413.25,100.875 Z" id="Black-Frame"></path>
+                    <path d="M3246.38,167.542 C3246.38,165.518 3244.737,163.875 3242.713,163.875 L170.543,163.875 C168.519,163.875 166.876,165.518 166.876,167.542 L166.876,1895.712 C166.876,1897.736 168.519,1899.379 170.543,1899.379 L3242.713,1899.379 C3244.737,1899.379 3246.38,1897.736 3246.38,1895.712 L3246.38,167.542 L3246.38,167.542 Z" id="Screen-Frame"></path>
+                    <rect id="Screen1" x="170.625" y="167.678" width="3072" height="1728"></rect>
+                </g>
+                <circle id="Camera" fill="#3E3E3E" sketch:type="MSShapeGroup" cx="1706.62" cy="70.531" r="17.424"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
