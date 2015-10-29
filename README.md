@@ -28,13 +28,14 @@ You can tweak the colors if necessary.
 **Note:**
 > Once again, device sizes are depending on their resolution rather than their physical size. The iPad Mini is about 15.3% smaller than the iPad Air. The screen size of an iPad 3 or an iPad 4 is the same as the screen size of an iPad Air. Non retina devices are 50% bigger.
 
+### Apple Watch ###
+[![Pomme Plate iMac overview](Overview/Apple%20Watch%20Overview.png)](Overview/Apple%20Watch%20Overview.svg)
+
 ### MacBook ###
 [![Pomme Plate MacBook overview](Overview/MacBook%20Overview.png)](Overview/MacBook%20Overview.svg)
 
 ### iMac ###
 [![Pomme Plate iMac overview](Overview/iMac%20Overview.png)](Overview/iMac%20Overview.svg)
-
-More Apple devices are on the way!
 
 ## License and credits
 
