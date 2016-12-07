@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1767px" height="2498px" viewBox="0 0 1767 2498" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>iPad Air 2 Silver</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1767px" height="2498px" viewBox="0 0 1767 2498" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad Air 2 • iPad Pro 9.7 Silver</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="iPad" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="iPad-Air-2" sketch:type="MSArtboardGroup" transform="translate(-2867.000000, -251.000000)">
-            <g id="iPad-Air-2-Silver" sketch:type="MSLayerGroup" transform="translate(2867.000000, 251.000000)">
-                <path d="M1766.01,121.208 C1766.01,36.54 1722.515,0.554 1642.182,0.554 L116.092,0.554 C31.841,0.554 0.009,49.374 0.009,120.624 L0.009,2377.474 C0.009,2448.724 31.841,2497.544 116.092,2497.544 L1642.182,2497.544 C1722.515,2497.544 1766.01,2461.558 1766.01,2376.891 L1766.01,121.211 L1766.01,121.208 Z" id="Frame" fill="#D5D2CF" sketch:type="MSShapeGroup"></path>
-                <g id="Body" transform="translate(12.000000, 13.000000)" sketch:type="MSShapeGroup">
+    <g id="iPad" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad-Air-2-•-iPad-Pro-9.7" transform="translate(-2867.000000, -251.000000)">
+            <g id="iPad-Air-2-•-iPad-Pro-9.7-Silver" transform="translate(2867.000000, 251.000000)">
+                <path d="M1766.01,121.208 C1766.01,36.54 1722.515,0.554 1642.182,0.554 L116.092,0.554 C31.841,0.554 0.009,49.374 0.009,120.624 L0.009,2377.474 C0.009,2448.724 31.841,2497.544 116.092,2497.544 L1642.182,2497.544 C1722.515,2497.544 1766.01,2461.558 1766.01,2376.891 L1766.01,121.211 L1766.01,121.208 Z" id="Frame" fill="#D5D2CF"></path>
+                <g id="Body" transform="translate(12.000000, 13.000000)">
                     <path d="M1711.73,26.217 C1693.285,8.948 1666.279,0.554 1629.172,0.554 L103.962,0.554 C85.906,0.554 69.872,3.112 56.304,8.156 C43.043,13.086 32.087,20.417 23.742,29.947 C7.991,47.931 0.003,74.066 0.003,107.624 L0.003,2364.474 C0.003,2397.905 8.021,2424.009 23.831,2442.062 C40.965,2461.625 67.63,2471.544 103.087,2471.544 L1629.177,2471.544 C1667.114,2471.544 1694.315,2463.345 1712.332,2446.478 C1721.278,2438.103 1728.124,2427.236 1732.68,2414.179 C1737.541,2400.251 1740.006,2383.331 1740.006,2363.891 L1740.006,108.211 C1740.006,88.77 1737.541,71.852 1732.68,57.924 C1728.461,45.836 1721.61,35.465 1711.735,26.22 L1711.73,26.217 Z" id="Body1" fill="#F3F5F7"></path>
                     <path d="M870.504,2331.55 C896.696,2331.55 918.004,2352.859 918.004,2379.05 C918.004,2405.242 896.696,2426.55 870.504,2426.55 C844.313,2426.55 823.004,2405.242 823.004,2379.05 C823.004,2352.859 844.313,2331.55 870.504,2331.55 L870.504,2331.55 Z M870.504,2323.55 C839.853,2323.55 815.005,2348.398 815.005,2379.05 C815.005,2409.701 839.853,2434.55 870.504,2434.55 C901.156,2434.55 926.005,2409.701 926.005,2379.05 C926.005,2348.398 901.156,2323.55 870.504,2323.55 L870.504,2323.55 L870.504,2323.55 Z" id="Home-Button" fill="#D5D2CF"></path>
                     <g id="Screen" transform="translate(94.000000, 206.000000)">

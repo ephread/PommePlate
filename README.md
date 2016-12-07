@@ -1,4 +1,4 @@
-# ![Instructions](http://i.imgur.com/QNPwZ3L.png)
+# ![Instructions](http://i.imgur.com/pMKkrvg.png)
 
 ![Public Domain | CC-0](https://img.shields.io/badge/CC--0-Public_Domain-lightgrey.svg)
 
@@ -28,21 +28,21 @@ You can tweak the colors if necessary.
 **Note:**
 > Once again, device sizes are depending on their resolution rather than their physical size. The iPad Mini is about 15.3% smaller than the iPad Air. The screen size of an iPad 3 or an iPad 4 is the same as the screen size of an iPad Air. Non retina devices are 50% bigger.
 
-### Apple Watch ###
-[![Pomme Plate iMac overview](Overview/Apple%20Watch%20Overview.png)](Overview/Apple%20Watch%20Overview.svg)
-
 ### MacBook ###
 [![Pomme Plate MacBook overview](Overview/MacBook%20Overview.png)](Overview/MacBook%20Overview.svg)
 
 ### iMac ###
 [![Pomme Plate iMac overview](Overview/iMac%20Overview.png)](Overview/iMac%20Overview.svg)
 
+### Apple Watch ###
+[![Pomme Plate iMac overview](Overview/Apple%20Watch%20Overview.png)](Overview/Apple%20Watch%20Overview.svg)
+
 ## License and credits
 
 ### Mockups
 _Pomme Plate_ mockups (SVG, PNG and sketch project files) are licensed under a [CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/). See LICENSE for more details.
 
-The typeface used by the above images is named [Vegur](http://www.fontspace.com/arro/vegur).
+The typeface used in the above images is named [Vegur](http://www.fontspace.com/arro/vegur).
 
 ### Logo
 The rudimentary _Pomme Plate_ logo is licensed under a [CC BY-NC 4.0 License](http://creativecommons.org/licenses/by-nc/4.0/).

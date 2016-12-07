@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="764px" height="1603px" viewBox="0 0 764 1603" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
-    <title>iPhone 5s Space Gray</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="764px" height="1603px" viewBox="0 0 764 1603" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>iPhone 5s • iPhone SE Space Gray</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="iPhone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="iPhone-5s" sketch:type="MSArtboardGroup" transform="translate(-618.000000, -199.000000)">
-            <g id="iPhone-5s-Space-Gray" sketch:type="MSLayerGroup" transform="translate(618.000000, 199.000000)">
-                <g id="Frame" fill="#535353" sketch:type="MSShapeGroup">
+    <g id="iPhone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-5s-•-iPhone-SE" transform="translate(-618.000000, -199.000000)">
+            <g id="iPhone-5s-•-iPhone-SE-Space-Gray" transform="translate(618.000000, 199.000000)">
+                <g id="Frame" fill="#535353">
                     <g id="Button">
-                        <path d="M513.5,3.59 L513.5,12.59 L635.5,12.59 L635.5,3.59 L631.509,0.59 L517.509,0.59 L513.5,3.59 L513.5,3.59 Z" id="Power-Button"></path>
-                        <path d="M3.5,512.59 L0.5,515.59 L0.5,565.59 L3.5,568.59 L12.5,568.59 L12.5,512.59 L3.5,512.59 L3.5,512.59 Z" id="Volume-Down-Button"></path>
-                        <path d="M3.5,379.59 L0.5,382.59 L0.5,432.59 L3.5,435.59 L12.5,435.59 L12.5,379.59 L3.5,379.59 L3.5,379.59 Z" id="Volume-Up-Button"></path>
-                        <path d="M3.5,228.59 L0.5,231.59 L0.5,298.59 L3.5,301.59 L12.5,301.59 L12.5,228.59 L3.5,228.59 L3.5,228.59 Z" id="Mute-Switch"></path>
+                        <polygon id="Power-Button" points="513.5 3.59 513.5 12.59 635.5 12.59 635.5 3.59 631.509 0.59 517.509 0.59"></polygon>
+                        <polygon id="Volume-Down-Button" points="3.5 512.59 0.5 515.59 0.5 565.59 3.5 568.59 12.5 568.59 12.5 512.59"></polygon>
+                        <polygon id="Volume-Up-Button" points="3.5 379.59 0.5 382.59 0.5 432.59 3.5 435.59 12.5 435.59 12.5 379.59"></polygon>
+                        <polygon id="Mute-Switch" points="3.5 228.59 0.5 231.59 0.5 298.59 3.5 301.59 12.5 301.59 12.5 228.59 3.5 228.59"></polygon>
                     </g>
                     <path d="M9.5,121.6 C9.5,91.68 21.17,63.55 42.35,42.39 C63.53,21.24 91.68,9.59 121.63,9.59 L651.37,9.59 C681.32,9.59 709.47,21.24 730.65,42.39 C751.84,63.55 763.5,91.68 763.5,121.6 L763.5,1490.58 C763.5,1520.502 751.84,1548.634 730.65,1569.791 C709.47,1590.944 681.32,1602.594 651.37,1602.594 L121.63,1602.594 C91.68,1602.594 63.53,1590.944 42.35,1569.791 C21.17,1548.634 9.5,1520.502 9.5,1490.58 L9.5,121.6 L9.5,121.6 Z" id="Frame1"></path>
                 </g>
-                <g id="Body" transform="translate(18.000000, 18.000000)" sketch:type="MSShapeGroup">
+                <g id="Body" transform="translate(18.000000, 18.000000)">
                     <path d="M103.63,0.584 L633.37,0.584 C690.24,0.584 736.5,46.796 736.5,103.599 L736.5,1471.569 C736.5,1528.369 690.24,1574.579 633.37,1574.579 L103.63,1574.579 C46.77,1574.579 0.5,1528.369 0.5,1471.569 L0.5,103.599 C0.5,46.796 46.77,0.584 103.63,0.584 L103.63,0.584 Z" id="Front" fill="#343434"></path>
                     <path d="M368.058,1400.15 C405.588,1400.15 436.058,1430.619 436.058,1468.15 C436.058,1505.68 405.588,1536.15 368.058,1536.15 C330.528,1536.15 300.058,1505.68 300.058,1468.15 C300.058,1430.619 330.528,1400.15 368.058,1400.15 L368.058,1400.15 Z M368.058,1408.25 C401.118,1408.25 427.959,1435.091 427.959,1468.151 C427.959,1501.211 401.118,1528.052 368.058,1528.052 C334.998,1528.052 308.157,1501.211 308.157,1468.151 C308.157,1435.091 334.998,1408.25 368.058,1408.25 L368.058,1408.25 Z" id="Home-Button" fill="#535353"></path>
                     <g id="Screen" transform="translate(39.000000, 211.000000)" fill="#343434">
