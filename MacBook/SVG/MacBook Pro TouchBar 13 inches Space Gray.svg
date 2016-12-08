@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2406px" height="1471px" viewBox="0 0 2406 1471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>MacBook Pro TouchBar 13 inches Space Gray</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MacBook-Pro-Touch-Bar-13-inches" transform="translate(-798.000000, -265.000000)">
+            <g id="MacBook-Pro-TouchBar-13-inches-Space-Gray" transform="translate(798.000000, 265.000000)">
+                <g id="MacBook-Pro-13-Screen" transform="translate(182.000000, 0.000000)">
+                    <g id="Frames">
+                        <rect id="Metal-Frame" fill="#9D9D9D" x="0" y="0" width="2040.79004" height="1430.87054" rx="67"></rect>
+                        <rect id="Plastic-Band" fill="#4D4D4D" x="4" y="4" width="2032.79004" height="1422.87" rx="62"></rect>
+                        <rect id="Black-Frame" fill="#343434" x="8" y="8" width="2024.79004" height="1414.87" rx="59"></rect>
+                        <path d="M2032.79004,1331 L2032.79004,1363.8761 C2032.79004,1396.4575 2006.38004,1422.87 1973.80004,1422.87 L66.9908011,1422.87 C34.4111005,1422.87 8,1396.4518 8,1363.8761 L8,1331 L2032.79004,1331 Z" id="Plastic-Band" fill="#3E3E3E"></path>
+                    </g>
+                    <g id="Screen" transform="translate(61.000000, 94.000000)" fill="#343434">
+                        <rect id="Screen---Off" x="0.875" y="0.99" width="1920" height="1200"></rect>
+                    </g>
+                    <g id="Sensors" transform="translate(1011.000000, 42.000000)" fill="#3E3E3E">
+                        <path d="M10,20 C15.5225,20 20,15.5225 20,10 C20,4.47666667 15.5225,-1.42108547e-13 10,-1.42108547e-13 C4.4775,-1.42108547e-13 0,4.47666667 0,10 C0,15.5225 4.4775,20 10,20 L10,20 Z" id="Camera"></path>
+                    </g>
+                </g>
+                <g id="MacBook-Pro-13-Body" transform="translate(0.000000, 1391.000000)">
+                    <path d="M0,39.5500488 L2405.75,39.5500488 C2386.911,60.1200488 2319.704,79.1780488 2271.523,79.1780488 L134.223,79.1780488 C86.046,79.1780488 18.839,60.1200488 0,39.5500488 Z" id="Bottom-Body" fill="#838383"></path>
+                    <polygon id="Top-Body" fill="#9D9D9D" points="0 39.5779951 0 0 2405.75 0 2405.75 39.578"></polygon>
+                    <path d="M1027.46,32.25 C1014.283,32.25 1000.614,15.7 1000.614,0.291 L1407.13,0.291 C1407.13,15.7 1393.461,32.25 1380.284,32.25 L1027.46,32.25 L1027.46,32.25 Z" id="Hollow" fill="#707070"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
