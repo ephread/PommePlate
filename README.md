@@ -1,4 +1,4 @@
-# ![Instructions](http://i.imgur.com/pMKkrvg.png)
+# ![Instructions](https://i.imgur.com/MHwHl1Y.png)
 
 ![Public Domain | CC-0](https://img.shields.io/badge/CC--0-Public_Domain-lightgrey.svg)
 
@@ -19,25 +19,25 @@ You can tweak the colors if necessary.
 Older devices are not included in the overview, but are available in the release archive.
 
 ### iPhone ###
-[![Pomme Plate iPhone overview](Overview/iPhone%20Overview.png)](Overview/iPhone%20Overview.svg)
+[![Pomme Plate iPhone overview](Overview/iPhone%20Overview.svg)](Overview/iPhone%20Overview.svg)
 
 **Note:**
 > iPhone 6 Plus and iPhone 6s Plus appear much bigger than they should be. That's because they have a 2208×1242 viewport downsampled to 1920×1080. Keeping the original screen resolution allows you to add screenshots; you'll then need to reduce the size of the whole thing (mockup + screenshot) by about 13.1%.
 
 ### iPad ###
-[![Pomme Plate iPad overview](Overview/iPad%20Overview.png)](Overview/iPad%20Overview.svg)
+[![Pomme Plate iPad overview](Overview/iPad%20Overview.svg)](Overview/iPad%20Overview.svg)
 
 **Note:**
 > Once again, device sizes are depending on their resolution rather than their physical size. The iPad Mini is about 15.3% smaller than the iPad Air. The screen size of an iPad 3 or an iPad 4 is the same as the screen size of an iPad Air. Non retina devices are 50% bigger.
 
 ### MacBook ###
-[![Pomme Plate MacBook overview](Overview/MacBook%20Overview.png)](Overview/MacBook%20Overview.svg)
+[![Pomme Plate MacBook overview](Overview/MacBook%20Overview.svg)](Overview/MacBook%20Overview.svg)
 
 ### iMac ###
-[![Pomme Plate iMac overview](Overview/iMac%20Overview.png)](Overview/iMac%20Overview.svg)
+[![Pomme Plate iMac overview](Overview/iMac%20Overview.svg)](Overview/iMac%20Overview.svg)
 
 ### Apple Watch ###
-[![Pomme Plate iMac overview](Overview/Apple%20Watch%20Overview.png)](Overview/Apple%20Watch%20Overview.svg)
+[![Pomme Plate iMac overview](Overview/Apple%20Watch%20Overview.svg)](Overview/Apple%20Watch%20Overview.svg)
 
 ## License and credits
 
