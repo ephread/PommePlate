@@ -1,6 +1,15 @@
 # Change Log
 Changes to _Pomme Plate_ will be documented in this file.
 
+## [1.3.1](https://github.com/ephread/PommePlate/releases/tag/1.3.1)
+Released on 2018-16-09.
+
+### Added
+- iPhone Xs
+
+### Changed
+- Fix Apple Watch Series 1-2-3 design
+
 ## [1.3.0](https://github.com/ephread/PommePlate/releases/tag/1.3.0)
 Released on 2017-13-11.
 

@@ -16,6 +16,8 @@ I am not a designer. Although I find a certain harmony between the color I've ch
 
 You can tweak the colors if necessary.
 
+Older devices are not included in the overview, but are available in the release archive.
+
 ### iPhone ###
 [![Pomme Plate iPhone overview](Overview/iPhone%20Overview.png)](Overview/iPhone%20Overview.svg)
 
@@ -41,8 +43,6 @@ You can tweak the colors if necessary.
 
 ### Mockups
 _Pomme Plate_ mockups (SVG, PNG and sketch project files) are licensed under a [CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/). See LICENSE for more details.
-
-The typeface used in the above images is named [Vegur](http://www.fontspace.com/arro/vegur).
 
 ### Logo
 The rudimentary _Pomme Plate_ logo is licensed under a [CC BY-NC 4.0 License](http://creativecommons.org/licenses/by-nc/4.0/).
