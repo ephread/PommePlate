@@ -1,6 +1,13 @@
 # Change Log
 Changes to _Pomme Plate_ will be documented in this file.
 
+## [1.4.0](https://github.com/ephread/PommePlate/releases/tag/1.4.0)
+Released on 2018-17-09.
+
+### Added
+- iPhone Xs Max
+- iPhone XR
+
 ## [1.3.1](https://github.com/ephread/PommePlate/releases/tag/1.3.1)
 Released on 2018-16-09.
 

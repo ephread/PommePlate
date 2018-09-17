@@ -24,6 +24,8 @@ Older devices are not included in the overview, but are available in the release
 **Note:**
 > iPhone 6 Plus and iPhone 6s Plus appear much bigger than they should be. That's because they have a 2208×1242 viewport downsampled to 1920×1080. Keeping the original screen resolution allows you to add screenshots; you'll then need to reduce the size of the whole thing (mockup + screenshot) by about 13.1%.
 
+> iPhone X/Xs and iPhone Xs Plus appear bigger than they should be as well. You'll need to reduce the size by about 30%.
+
 ### iPad ###
 [![Pomme Plate iPad overview](Overview/iPad%20Overview.svg)](Overview/iPad%20Overview.svg)
 
