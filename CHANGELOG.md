@@ -1,6 +1,16 @@
 # Change Log
 Changes to _Pomme Plate_ will be documented in this file.
 
+## [1.4.1](https://github.com/ephread/PommePlate/releases/tag/1.4.1)
+Released on 2018-18-09.
+
+### Added
+- Apple Watch 44mm
+- Apple Watch 40mm
+
+### Fixed
+- Missing front glass on iPhone X/Xs
+
 ## [1.4.0](https://github.com/ephread/PommePlate/releases/tag/1.4.0)
 Released on 2018-17-09.
 
