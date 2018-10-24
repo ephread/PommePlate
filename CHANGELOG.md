@@ -1,8 +1,14 @@
 # Change Log
 Changes to _Pomme Plate_ will be documented in this file.
 
+## [1.4.2](https://github.com/ephread/PommePlate/releases/tag/1.4.2)
+Released on 2018-10-25.
+
+### Added
+- iPad Pro 10.5
+
 ## [1.4.1](https://github.com/ephread/PommePlate/releases/tag/1.4.1)
-Released on 2018-18-09.
+Released on 2018-09-18.
 
 ### Added
 - Apple Watch 44mm
@@ -12,14 +18,14 @@ Released on 2018-18-09.
 - Missing front glass on iPhone X/Xs
 
 ## [1.4.0](https://github.com/ephread/PommePlate/releases/tag/1.4.0)
-Released on 2018-17-09.
+Released on 2018-09-17.
 
 ### Added
 - iPhone Xs Max
 - iPhone XR
 
 ## [1.3.1](https://github.com/ephread/PommePlate/releases/tag/1.3.1)
-Released on 2018-16-09.
+Released on 2018-09-16.
 
 ### Added
 - iPhone Xs
@@ -28,7 +34,7 @@ Released on 2018-16-09.
 - Fix Apple Watch Series 1-2-3 design
 
 ## [1.3.0](https://github.com/ephread/PommePlate/releases/tag/1.3.0)
-Released on 2017-13-11.
+Released on 2017-11-13.
 
 ### Added
 - iPhone 8
