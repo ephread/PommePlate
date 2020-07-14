@@ -30,7 +30,7 @@ Older devices are not included in the overview, but are available in the release
 [![Pomme Plate iPad overview](Overview/iPad%20Overview.svg)](Overview/iPad%20Overview.svg)
 
 **Note:**
-> Once again, device sizes are depending on their resolution rather than their physical size. The iPad Mini is about 15.3% smaller than the iPad Air. The screen size of an iPad 3 or an iPad 4 is the same as the screen size of an iPad Air. Non retina devices are 50% bigger.
+> The iPad Mini (326 ppi) is about 19% smaller than other iPads (264 ppi).
 
 ### MacBook ###
 [![Pomme Plate MacBook overview](Overview/MacBook%20Overview.svg)](Overview/MacBook%20Overview.svg)

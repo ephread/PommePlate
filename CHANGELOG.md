@@ -1,6 +1,19 @@
 # Change Log
 Changes to _Pomme Plate_ will be documented in this file.
 
+## 1.5.0
+Released on 2020-XX-XX.
+
+### Added
+- iPad Pro 12.9-inch with FaceID
+- iPad Pro 11-inch
+- iPad 7th Generation
+- iPad Air 3rd Generation
+
+### Changed
+- Cleaned up Apple Watch & iPad source files
+- Obsoleted older iPads
+
 ## [1.4.2](https://github.com/ephread/PommePlate/releases/tag/1.4.2)
 Released on 2018-10-25.
 
