@@ -1,8 +1,8 @@
 # Change Log
 Changes to _Pomme Plate_ will be documented in this file.
 
-## 1.5.0
-Released on 2020-XX-XX.
+## [1.5.0](https://github.com/ephread/PommePlate/releases/tag/1.5.0)
+Released on 2020-07-17.
 
 ### Added
 - iPhone SE (2nd Generation)

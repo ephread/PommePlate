@@ -1,8 +1,8 @@
 # ![Instructions](https://i.imgur.com/MHwHl1Y.png)
 
 ![License CC-0](https://img.shields.io/badge/license-CC--0-brightgreen.svg)
-![Version 1.4.2](https://img.shields.io/badge/version-1.4.2-blue.svg)
-![Mockups ](https://img.shields.io/badge/mockup-iPhone%20|%20iPad%20|%20Apple%20Watch%20|%20Mac%20-lightgray.svg)
+![Version 1.5.0](https://img.shields.io/badge/version-1.5.0-blue.svg)
+![Mockups iPhone | iPad | Apple Watch | Mac](https://img.shields.io/badge/mockup-iPhone%20|%20iPad%20|%20Apple%20Watch%20|%20Mac%20-lightgray.svg)
 
 _Pomme Plate_ is a collection of flat mockups you can use, remix, transform and share. You don't need to credit me in any way and you can use the work for commercial purpose.
 
