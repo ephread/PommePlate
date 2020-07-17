@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3350" height="1936" viewBox="0 0 3350 1936">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(322)">
+      <rect width="2706" height="1899" fill="#9D9D9D" rx="94"/>
+      <rect width="2686" height="1879" x="10" y="10" fill="#4D4D4D" rx="84"/>
+      <rect width="2666" height="1859" x="20" y="20" fill="#343434" rx="74"/>
+      <path fill="#3E3E3E" d="M20,1763 L2686,1763 L2686,1805 C2686,1845.86907 2652.86907,1879 2612,1879 L94,1879 C53.1309285,1879 20,1845.86907 20,1805 L20,1763 L20,1763 Z"/>
+      <rect width="2560" height="1600" fill="#343434" transform="translate(73 124)"/>
+      <circle cx="1352" cy="71" r="10" fill="#3E3E3E"/>
+    </g>
+    <g transform="translate(0 1826)">
+      <path fill="#838383" d="M350,110 C202.970972,110 86.3043049,92.6666667 0,58 L3350,58 C3264.55874,92.32 3149.35933,109.6516 3004.40176,109.9948 L350,110 Z"/>
+      <rect width="3350" height="58" fill="#9D9D9D"/>
+      <path fill="#747373" d="M1441.12345,43 C1423.39274,43 1402,20.7324071 1402,3.05925343e-13 L1949,3.05925343e-13 C1949,20.7324071 1927.60726,43 1909.87655,43 L1441.12345,43 Z"/>
+    </g>
+  </g>
+</svg>

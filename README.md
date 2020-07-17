@@ -1,24 +1,20 @@
 # ![Instructions](https://i.imgur.com/MHwHl1Y.png)
 
-![Public Domain | CC-0](https://img.shields.io/badge/CC--0-Public_Domain-lightgrey.svg)
+![License CC-0](https://img.shields.io/badge/license-CC--0-brightgreen.svg)
+![Version 1.4.2](https://img.shields.io/badge/version-1.4.2-blue.svg)
+![Mockups ](https://img.shields.io/badge/mockup-iPhone%20|%20iPad%20|%20Apple%20Watch%20|%20Mac%20-lightgray.svg)
 
 _Pomme Plate_ is a collection of flat mockups you can use, remix, transform and share. You don't need to credit me in any way and you can use the work for commercial purpose.
 
 _Pomme Plate_ means "Flat Apple" in French.
 
-Old devices (such as iPhone 4 or iPad Mini 2) are not shown in the overviews, but are present in the releases.
-
 ## Download
-Rather than clone the entire project (and its history) head over to [releases](https://github.com/ephread/PommePlate/releases/) to get the latest release.
+Head over to [releases](https://github.com/ephread/PommePlate/releases/) to get the latest version.
 
 ## Overview
-All mockups are available in SVG and PNG and Sketch project files.
+All mockups are available in SVG and PNG and Sketch project files. You can tweak the colors if necessary.
 
-I am not a designer. Although I find a certain harmony between the color I've chosen, your sharp, educated eye might tell you otherwise.
-
-You can tweak the colors if necessary.
-
-Older devices are not included in the overview, but are available in the release archive.
+Older, obsolete devices are not included in the overview, but are available in the release archive.
 
 ### iPhone ###
 [![Pomme Plate iPhone overview](Overview/iPhone%20Overview.svg)](Overview/iPhone%20Overview.svg)
@@ -35,14 +31,14 @@ Older devices are not included in the overview, but are available in the release
 **Note:**
 > The iPad Mini (326 ppi) is about 19% smaller than other iPads (264 ppi).
 
+### Apple Watch ###
+[![Pomme Plate iMac overview](Overview/Apple%20Watch%20Overview.svg)](Overview/Apple%20Watch%20Overview.svg)
+
 ### MacBook ###
 [![Pomme Plate MacBook overview](Overview/MacBook%20Overview.svg)](Overview/MacBook%20Overview.svg)
 
 ### iMac ###
 [![Pomme Plate iMac overview](Overview/iMac%20Overview.svg)](Overview/iMac%20Overview.svg)
-
-### Apple Watch ###
-[![Pomme Plate iMac overview](Overview/Apple%20Watch%20Overview.svg)](Overview/Apple%20Watch%20Overview.svg)
 
 ## License and credits
 

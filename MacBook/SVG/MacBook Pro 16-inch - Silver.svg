@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3910" height="2236" viewBox="0 0 3910 2236">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(365)">
+      <rect width="3181" height="2232" fill="#D5D2CF" rx="94"/>
+      <rect width="3158" height="2209" x="12" y="11" fill="#4D4D4D" rx="84"/>
+      <rect width="3134" height="2185" x="24" y="23" fill="#343434" rx="74"/>
+      <rect width="3072" height="1920" fill="#343434" transform="translate(54 95)"/>
+      <path fill="#3E3E3E" d="M24,2072 L3158,2072 L3158,2134 C3158,2174.86907 3124.86907,2208 3084,2208 L98,2208 C57.1309285,2208 24,2174.86907 24,2134 L24,2072 L24,2072 Z"/>
+      <circle cx="1589.5" cy="83.5" r="11.5" fill="#3E3E3E"/>
+    </g>
+    <g transform="translate(0 2119)">
+      <path fill="#A9A9A9" d="M350,117 C202.970972,117 86.3043049,99.6666667 0,65 L3910,65 C3824.55874,99.32 3709.35933,116.6516 3564.40176,116.9948 L350,117 Z"/>
+      <polygon fill="#D5D2CF" points="0 0 3910 0 3910 65 0 65"/>
+      <path fill="#9D9A97" d="M1721.12345,43 C1703.39274,43 1682,20.7324071 1682,3.05925343e-13 L2229,3.05925343e-13 C2229,20.7324071 2207.60726,43 2189.87655,43 L1721.12345,43 Z"/>
+    </g>
+  </g>
+</svg>

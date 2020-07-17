@@ -13,10 +13,13 @@ Released on 2020-XX-XX.
 - iPad Pro 11-inch (3rd and 4th generation)
 - iPad (7th Generation)
 - iPad Air (3rd Generation)
+- MacBook Air (2020)
+- MacBook Pro 13-inch (2020)
+- MacBook Pro 16-inch (2020)
 
 ### Changed
-- Cleaned up Apple Watch, iPad and iPhone source files
-- Obsoleted older iPads and iPhones
+- Modernised old source files
+- Obsoleted older iPhones, iPads and MacBooks.
 
 ## [1.4.2](https://github.com/ephread/PommePlate/releases/tag/1.4.2)
 Released on 2018-10-25.
