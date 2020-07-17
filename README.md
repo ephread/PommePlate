@@ -6,6 +6,8 @@ _Pomme Plate_ is a collection of flat mockups you can use, remix, transform and 
 
 _Pomme Plate_ means "Flat Apple" in French.
 
+Old devices (such as iPhone 4 or iPad Mini 2) are not shown in the overviews, but are present in the releases.
+
 ## Download
 Rather than clone the entire project (and its history) head over to [releases](https://github.com/ephread/PommePlate/releases/) to get the latest release.
 
@@ -22,9 +24,10 @@ Older devices are not included in the overview, but are available in the release
 [![Pomme Plate iPhone overview](Overview/iPhone%20Overview.svg)](Overview/iPhone%20Overview.svg)
 
 **Note:**
-> iPhone 6 Plus and iPhone 6s Plus appear much bigger than they should be. That's because they have a 2208×1242 viewport downsampled to 1920×1080. Keeping the original screen resolution allows you to add screenshots; you'll then need to reduce the size of the whole thing (mockup + screenshot) by about 13.1%.
-
-> iPhone X/Xs and iPhone Xs Plus appear bigger than they should be as well. You'll need to reduce the size by about 30%.
+> iPhone X/XS (Max)/11 Pro (Max) appear bigger than they should be, since they have a higher density than other iPhones (458ppi). They should be 29% smaller to match the size of iPhone SE and iPhone XR/11 (326 ppi).
+>
+> This logic also applies to older iPhone 6/6s/7/8 Plus. They have a 2208×1242 viewport downsampled to 1920×1080. Keeping the original screen resolution let you add screenshots, but requires to reduce the size of the whole thing (mockup + screenshot) by about 13.1%. Then, to match the physical size of other iPhones, they need to be further reduce by about 19%.
+> TL;DR: You need to reduce the size of any "Plus" iPhone by roughly 30%.
 
 ### iPad ###
 [![Pomme Plate iPad overview](Overview/iPad%20Overview.svg)](Overview/iPad%20Overview.svg)
